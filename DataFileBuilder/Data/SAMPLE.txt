@@ -1,0 +1,41 @@
+						File Information
+	Input data file name: 'C:\Projects - StandardAlone\source\SFController\Data\SAMPLE.raw2'
+	Serial number =  0224
+
+						Software Information
+	Application name: Sensor Fish Communicator
+	Version: 1.0.126
+	Release date: July 2015
+
+						Software Settings Information
+	Sensorfish 9DOF Calibration file: sf9_cal_20170914.txt
+	Pressure Scale Factor: 0.146813,Pressure Offset: -1.316925
+	Acceleration X Scale Factor: 6.357946,Acceleration X Offset: 1486.979167
+	Acceleration Y Scale Factor: 6.214712,Acceleration Y Offset: 1486.644398
+	Acceleration Z Scale Factor: 7.242288,Acceleration Z Offset: 1494.240501
+	Temperature Offset: 0.201234
+	Gyro X Offset: 1.049184
+	Gyro Y Offset: 8.517019
+	Gyro Z Offset: -0.208604
+
+						Hardware Information
+	Rev: R5
+	Manufacture date: December 2014
+
+						Hardware Settings Information
+	A/D data representation: 12 bits
+	A/D resolution: 12 bits
+	Three-axis accelerometers: on
+	Three-axis rotation velocity: on
+	Three-axis magnetometer: on
+	Pressure transducer: on
+	Ambient temperature: on
+	Each axis accelerometers range: +/-200g 
+	Each axis rotation velocity:+/-  2000 degrees per second
+	Each axis magnetometer: +/-  1.3Gauss 
+	Pressure range: 0 to  203 psia
+	Temperature: -40 to +125°C
+	Trigger delay in seconds: (set by SF communicator)
+	Recording in seconds: (set by SF communicator)
+	Recovery delay in seconds: (set by SF communicator)
+	Data sampling rate: 2048 Hz
